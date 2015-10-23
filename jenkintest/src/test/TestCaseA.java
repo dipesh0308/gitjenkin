@@ -11,12 +11,14 @@ public class TestCaseA
    public void beforeMethod()
    {
        System.out.println(" method..");
+	   System.out.println(" A Change is done..");
    }
  
    @Test
    public void JUnit4Test()
    {
       System.out.println("In tedfgdfgst method");
+	   System.out.println(" A Change is done..");
    }
  
    @After
