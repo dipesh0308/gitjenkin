@@ -1,0 +1,9 @@
+Testsuite: test.TestCaseB
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.016 sec
+------------- Standard Output ---------------
+Test Case B
+Test Case B method
+Test Case B method
+------------- ---------------- ---------------
+
+Testcase: JUnit4Test took 0 sec

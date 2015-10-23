@@ -1,0 +1,9 @@
+Testsuite: test.TestCaseA
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.047 sec
+------------- Standard Output ---------------
+Beforedfhgdfg method..
+In tedfgdfgst method
+afterdfgdfg method
+------------- ---------------- ---------------
+
+Testcase: JUnit4Test took 0.016 sec
